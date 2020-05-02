@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Lock</string>
+    <string name="prote_cted">protected By</string>
+    <string name="forget_password">Forget password !</string>
+    <string name="set_permission">Set Permission</string>
+    <string name="access_to_action_usage_access_settings_to_enable_applock">access to action usage access settings to enable appLock</string>
+    <string name="enable">Enable</string>
+</resources>
